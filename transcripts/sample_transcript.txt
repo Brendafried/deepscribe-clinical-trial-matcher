@@ -1,0 +1,33 @@
+Doctor: Good morning, Mr. Thompson. How are you feeling today?
+
+Patient: Not great, Doctor. I’ve had this persistent cough for months now, and recently it’s gotten worse. I’m also feeling very short of breath.
+
+Doctor: I understand. You’re 58 years old, correct?
+
+Patient: Yes, 58.
+
+Doctor: And you’re still living in Chicago?
+
+Patient: That’s right.
+
+Doctor: Any history of smoking?
+
+Patient: Yes, I smoked for about 30 years, but I quit 5 years ago.
+
+Doctor: Ok. Your recent CT scan showed a mass in your right lung. The biopsy confirmed non-small cell lung cancer, stage IIIB.
+
+Patient: That’s scary to hear.
+
+Doctor: It is serious, but there are options. Any family history of cancer?
+
+Patient: My father died of colon cancer.
+
+Doctor: We also did genetic testing and found you’re positive for EGFR mutation. This can make you eligible for certain targeted therapies.
+
+Patient: What happens next?
+
+Doctor: I’d like to discuss treatment options including targeted therapy and chemotherapy. I also want to see if there are any clinical trials you might be eligible for.
+
+Patient: That would be good. I want to try anything that helps.
+
+Doctor: Alright. I’ll put in the referrals and look for trials near Chicago that match your profile.
