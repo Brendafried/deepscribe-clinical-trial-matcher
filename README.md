@@ -21,9 +21,9 @@ Users can:
 
 ## Deployed Demo
 
-- [🌐 Frontend (Vercel)](https://your-vercel-app-url.vercel.app)  
-- [🔗 Backend API (Render)](https://your-render-backend-url.onrender.com)
-
+- [🌐 Frontend (Vercel)](https://deepscribe-clinical-trial-matcher-r4k4bdb9s.vercel.app)  
+- [🔗 Backend API (Render)](https://deepscribe-clinical-trial-matcher-1.onrender.com)
+For a sample doctor-patient trancript you can use the one in transcripts/sample_trancript.txt and paste it in the app
 ---
 
 ## Prerequisites
