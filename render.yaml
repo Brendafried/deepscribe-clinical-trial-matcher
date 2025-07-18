@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: clinical-trial-backend
+    env: python
+    plan: free
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: python -m uvicorn app:app --host=0.0.0.0 --port=8000
+    workingDir: backend
+    envVars:
+      - key: PORT
+        value: 8000
