@@ -23,7 +23,7 @@ Users can:
 
 - [🌐 Frontend (Vercel)](https://deepscribe-clinical-trial-matcher-r4k4bdb9s.vercel.app)  
 - [🔗 Backend API (Render)](https://deepscribe-clinical-trial-matcher-1.onrender.com)
-For a sample doctor-patient trancript you can use the one in transcripts/sample_trancript.txt and paste it in the app
+- For a sample doctor-patient trancript you can use the one in transcripts/sample_trancript.txt and paste it in the app
 ---
 
 ## Prerequisites
